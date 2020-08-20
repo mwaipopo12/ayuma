@@ -1,0 +1,17 @@
+<!DOCTYPE>
+<html>
+<head>
+	<title>Vehicle Inspection System</title>
+<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+</head>
+<body>
+	<form id="box">
+		<br/>
+		Vehicle id<input type="text" name="Vehicle id" placeholder="enter id"><br/><br/>
+		FuelType<input type="text" name="FuelType" placeholder="fuel used"><br/><br/>
+		Make<input type="text" name="Make" placeholder="compay make"><br/><br/>
+		insurer<input type="text" name="Vehicle id" placeholder="enter id"><br/><br/>
+		<input type="button" value="register Vehicle">
+	</form>
+</body>
+</html>
